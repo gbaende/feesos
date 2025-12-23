@@ -67,7 +67,7 @@ export default function Hero({ onDonateClick }: HeroProps) {
             </button>
           </div>
 
-          {/* Stats */}
+          {/* Stats - Hidden for now
           <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
             <div className="text-center">
               <p className="text-3xl md:text-4xl font-bold text-green-700">10K+</p>
@@ -86,6 +86,7 @@ export default function Hero({ onDonateClick }: HeroProps) {
               <p className="text-gray-600 text-sm md:text-base">Transparent</p>
             </div>
           </div>
+          */}
         </div>
 
         {/* Scroll indicator */}
