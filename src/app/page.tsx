@@ -25,7 +25,7 @@ export default function Home() {
         <WhoWeAre />
         <WhatWeDo />
         <OurTeam />
-        <News />
+        {/* <News /> - Hidden for now */}
 
         {/* Donation CTA Section */}
         <section className="py-16 md:py-24 bg-gradient-to-r from-green-700 to-teal-700">
