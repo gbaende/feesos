@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "whoWeAre": "Qui Sommes-Nous",
+    "whatWeDo": "Ce Que Nous Faisons",
+    "ourTeam": "Notre Equipe",
+    "news": "Actualites",
+    "donate": "Faire un Don"
+  },
+  "hero": {
+    "tagline": "Rising Together",
+    "title": "Fondation pour l'Emploi Egal et les Services Sociaux",
+    "subtitle": "Autonomiser les communautes africaines grace au developpement durable, a l'education et aux services sociaux.",
+    "cta": "Faire la Difference",
+    "learnMore": "En Savoir Plus"
+  },
+  "whoWeAre": {
+    "title": "Qui Sommes-Nous",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "FEESOS est une organisation a but non lucratif basee aux Etats-Unis, dediee a sensibiliser et collecter des fonds pour les organisations et les individus en Afrique. Nous croyons en la creation d'un changement durable grace a des efforts collaboratifs et des initiatives de developpement durable."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "text": "Un monde ou chaque individu en Afrique a un acces egal aux opportunites d'emploi, a l'education et aux services sociaux essentiels, leur permettant de s'epanouir et de contribuer a leurs communautes."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "items": [
+        {
+          "title": "Integrite",
+          "description": "Nous operons avec une transparence et une responsabilite totales dans toutes nos activites."
+        },
+        {
+          "title": "Autonomisation",
+          "description": "Nous croyons en l'equipement des individus avec les outils et ressources dont ils ont besoin pour reussir."
+        },
+        {
+          "title": "Collaboration",
+          "description": "Nous travaillons aux cotes des communautes locales et des organisations pour creer des solutions durables."
+        },
+        {
+          "title": "Egalite",
+          "description": "Nous nous engageons a assurer un acces equitable aux opportunites pour tous les individus."
+        }
+      ]
+    }
+  },
+  "whatWeDo": {
+    "title": "Ce Que Nous Faisons",
+    "subtitle": "Nos programmes se concentrent sur la creation d'un impact durable a travers l'Afrique grace a l'education, l'emploi et les services sociaux.",
+    "programs": [
+      {
+        "title": "Initiatives Educatives",
+        "description": "Soutenir les ecoles, fournir des bourses et developper des ressources educatives pour autonomiser la prochaine generation.",
+        "icon": "GraduationCap"
+      },
+      {
+        "title": "Programmes d'Emploi",
+        "description": "Creer des opportunites d'emploi, des formations professionnelles et un soutien a l'entrepreneuriat pour favoriser l'independance economique.",
+        "icon": "Briefcase"
+      },
+      {
+        "title": "Acces aux Soins de Sante",
+        "description": "Partenariat avec des cliniques locales et des organisations pour ameliorer l'accessibilite aux soins de sante dans les communautes mal desservies.",
+        "icon": "Heart"
+      },
+      {
+        "title": "Developpement Communautaire",
+        "description": "Construire des infrastructures, fournir un acces a l'eau potable et soutenir les initiatives locales pour une croissance durable.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "ourTeam": {
+    "title": "Notre Equipe",
+    "subtitle": "Rencontrez les personnes dediees qui travaillent pour faire la difference."
+  },
+  "news": {
+    "title": "Dernieres Actualites",
+    "subtitle": "Restez informe de nos activites recentes et annonces.",
+    "readMore": "Lire la Suite"
+  },
+  "donation": {
+    "title": "Faire un Don",
+    "subtitle": "Votre contribution nous aide a creer un changement durable dans les communautes a travers l'Afrique.",
+    "selectAmount": "Selectionner le Montant",
+    "customAmount": "Montant Personnalise",
+    "selectProcessor": "Selectionner le Mode de Paiement",
+    "stripe": "Carte de Credit/Debit",
+    "paypal": "PayPal",
+    "proceed": "Proceder au Paiement",
+    "cancel": "Annuler",
+    "taxDeductible": "Votre don est deductible des impots dans la mesure permise par la loi.",
+    "secure": "Traitement securise des paiements",
+    "thankYou": "Merci pour votre generosite!"
+  },
+  "footer": {
+    "about": "FEESOS est une organisation a but non lucratif 501(c)(3) dediee au soutien des communautes en Afrique a travers l'education, l'emploi et les services sociaux.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Nous Contacter",
+    "email": "info@feesos.org",
+    "address": "Etats-Unis",
+    "followUs": "Suivez-Nous",
+    "legal": "Mentions Legales",
+    "privacy": "Politique de Confidentialite",
+    "terms": "Conditions d'Utilisation",
+    "disclaimer": "Avertissement",
+    "copyright": "Fondation pour l'Emploi Egal et les Services Sociaux. Tous droits reserves.",
+    "taxId": "Numero Fiscal: XX-XXXXXXX",
+    "nonprofitDisclaimer": "FEESOS est une organisation a but non lucratif 501(c)(3) enregistree. Les dons sont deductibles des impots dans la mesure permise par la loi."
+  },
+  "cookie": {
+    "message": "Nous utilisons des cookies pour ameliorer votre experience sur notre site. En continuant a naviguer, vous consentez a notre utilisation des cookies.",
+    "accept": "Accepter",
+    "decline": "Refuser",
+    "learnMore": "En Savoir Plus"
+  },
+  "privacy": {
+    "title": "Politique de Confidentialite",
+    "gdprTitle": "Conformite RGPD & CCPA",
+    "gdprText": "Nous nous engageons a proteger votre vie privee et a nous conformer au Reglement General sur la Protection des Donnees (RGPD) et au California Consumer Privacy Act (CCPA). Vous avez le droit d'acceder, de corriger ou de supprimer vos donnees personnelles a tout moment.",
+    "dataCollection": "Donnees Collectees",
+    "dataCollectionText": "Nous collectons uniquement les informations necessaires pour traiter les dons et communiquer avec les supporters. Cela peut inclure votre nom, adresse e-mail et informations de paiement.",
+    "dataUse": "Comment Nous Utilisons Vos Donnees",
+    "dataUseText": "Vos donnees sont utilisees uniquement pour traiter les dons, envoyer des recus et vous tenir informe de notre travail (avec votre consentement).",
+    "contact": "Pour les demandes de donnees, veuillez nous contacter a privacy@feesos.org"
+  }
+}

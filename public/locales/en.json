@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "whoWeAre": "Who We Are",
+    "whatWeDo": "What We Do",
+    "ourTeam": "Our Team",
+    "news": "News",
+    "donate": "Donate"
+  },
+  "hero": {
+    "tagline": "Rising Together",
+    "title": "Foundation for Equal Employment and Social Services",
+    "subtitle": "Empowering communities across Africa through sustainable development, education, and social services.",
+    "cta": "Make a Difference",
+    "learnMore": "Learn More"
+  },
+  "whoWeAre": {
+    "title": "Who We Are",
+    "mission": {
+      "title": "Our Mission",
+      "text": "FEESOS is a nonprofit organization based in the United States, dedicated to raising awareness and funds for organizations and individuals in Africa. We believe in creating lasting change through collaborative efforts and sustainable development initiatives."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "A world where every individual in Africa has equal access to employment opportunities, education, and essential social services, enabling them to thrive and contribute to their communities."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        {
+          "title": "Integrity",
+          "description": "We operate with complete transparency and accountability in all our endeavors."
+        },
+        {
+          "title": "Empowerment",
+          "description": "We believe in equipping individuals with the tools and resources they need to succeed."
+        },
+        {
+          "title": "Collaboration",
+          "description": "We work alongside local communities and organizations to create sustainable solutions."
+        },
+        {
+          "title": "Equality",
+          "description": "We are committed to ensuring fair access to opportunities for all individuals."
+        }
+      ]
+    }
+  },
+  "whatWeDo": {
+    "title": "What We Do",
+    "subtitle": "Our programs focus on creating sustainable impact across Africa through education, employment, and social services.",
+    "programs": [
+      {
+        "title": "Education Initiatives",
+        "description": "Supporting schools, providing scholarships, and developing educational resources to empower the next generation.",
+        "icon": "GraduationCap"
+      },
+      {
+        "title": "Employment Programs",
+        "description": "Creating job opportunities, vocational training, and entrepreneurship support to foster economic independence.",
+        "icon": "Briefcase"
+      },
+      {
+        "title": "Healthcare Access",
+        "description": "Partnering with local clinics and organizations to improve healthcare accessibility in underserved communities.",
+        "icon": "Heart"
+      },
+      {
+        "title": "Community Development",
+        "description": "Building infrastructure, providing clean water access, and supporting local initiatives for sustainable growth.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "ourTeam": {
+    "title": "Our Team",
+    "subtitle": "Meet the dedicated individuals working to make a difference."
+  },
+  "news": {
+    "title": "Latest News",
+    "subtitle": "Stay updated with our recent activities and announcements.",
+    "readMore": "Read More"
+  },
+  "donation": {
+    "title": "Make a Donation",
+    "subtitle": "Your contribution helps us create lasting change in communities across Africa.",
+    "selectAmount": "Select Amount",
+    "customAmount": "Custom Amount",
+    "selectProcessor": "Select Payment Method",
+    "stripe": "Credit/Debit Card",
+    "paypal": "PayPal",
+    "proceed": "Proceed to Payment",
+    "cancel": "Cancel",
+    "taxDeductible": "Your donation is tax-deductible to the extent allowed by law.",
+    "secure": "Secure payment processing",
+    "thankYou": "Thank you for your generosity!"
+  },
+  "footer": {
+    "about": "FEESOS is a 501(c)(3) nonprofit organization dedicated to supporting communities in Africa through education, employment, and social services.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "email": "info@feesos.org",
+    "address": "United States",
+    "followUs": "Follow Us",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Disclaimer",
+    "copyright": "Foundation for Equal Employment and Social Services. All rights reserved.",
+    "taxId": "Tax ID: XX-XXXXXXX",
+    "nonprofitDisclaimer": "FEESOS is a registered 501(c)(3) nonprofit organization. Donations are tax-deductible to the extent permitted by law."
+  },
+  "cookie": {
+    "message": "We use cookies to enhance your experience on our website. By continuing to browse, you consent to our use of cookies.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn More"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "gdprTitle": "GDPR & CCPA Compliance",
+    "gdprText": "We are committed to protecting your privacy and complying with the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). You have the right to access, correct, or delete your personal data at any time.",
+    "dataCollection": "Data We Collect",
+    "dataCollectionText": "We collect only the information necessary to process donations and communicate with supporters. This may include your name, email address, and payment information.",
+    "dataUse": "How We Use Your Data",
+    "dataUseText": "Your data is used solely for processing donations, sending receipts, and keeping you informed about our work (with your consent).",
+    "contact": "For data requests, please contact us at privacy@feesos.org"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "Dr. Amara Okonkwo",
+      "title": "Executive Director",
+      "titleFr": "Directrice Executive",
+      "bio": "With over 15 years of experience in nonprofit leadership, Dr. Okonkwo leads FEESOS's strategic vision and operations.",
+      "bioFr": "Avec plus de 15 ans d'experience dans le leadership associatif, Dr. Okonkwo dirige la vision strategique et les operations de FEESOS.",
+      "image": "/images/team/placeholder-1.svg"
+    },
+    {
+      "id": "2",
+      "name": "Michael Thompson",
+      "title": "Director of Programs",
+      "titleFr": "Directeur des Programmes",
+      "bio": "Michael oversees all FEESOS programs, ensuring they create meaningful and sustainable impact across Africa.",
+      "bioFr": "Michael supervise tous les programmes de FEESOS, s'assurant qu'ils creent un impact significatif et durable a travers l'Afrique.",
+      "image": "/images/team/placeholder-2.svg"
+    },
+    {
+      "id": "3",
+      "name": "Fatou Diallo",
+      "title": "Community Outreach Manager",
+      "titleFr": "Responsable de la Sensibilisation Communautaire",
+      "bio": "Fatou builds bridges between FEESOS and communities across Africa, fostering partnerships and local engagement.",
+      "bioFr": "Fatou cree des liens entre FEESOS et les communautes a travers l'Afrique, favorisant les partenariats et l'engagement local.",
+      "image": "/images/team/placeholder-3.svg"
+    },
+    {
+      "id": "4",
+      "name": "James Mensah",
+      "title": "Finance & Operations",
+      "titleFr": "Finances et Operations",
+      "bio": "James ensures FEESOS operates with financial integrity and efficiency, maximizing the impact of every donation.",
+      "bioFr": "James veille a ce que FEESOS fonctionne avec integrite financiere et efficacite, maximisant l'impact de chaque don.",
+      "image": "/images/team/placeholder-4.svg"
+    }
+  ]
+}

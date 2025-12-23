@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "FEESOS Launches New Education Initiative in Ghana",
+      "titleFr": "FEESOS Lance une Nouvelle Initiative Educative au Ghana",
+      "date": "2024-12-15",
+      "excerpt": "We are excited to announce our partnership with local schools in Ghana to provide educational resources and scholarships to over 500 students.",
+      "excerptFr": "Nous sommes ravis d'annoncer notre partenariat avec des ecoles locales au Ghana pour fournir des ressources educatives et des bourses a plus de 500 etudiants.",
+      "image": "/images/news/education-initiative.svg"
+    },
+    {
+      "id": "2",
+      "title": "Community Health Program Reaches Milestone",
+      "titleFr": "Le Programme de Sante Communautaire Atteint une Etape Importante",
+      "date": "2024-11-28",
+      "excerpt": "Our healthcare access program has now served over 10,000 individuals across 15 communities in East Africa.",
+      "excerptFr": "Notre programme d'acces aux soins de sante a maintenant servi plus de 10 000 personnes dans 15 communautes en Afrique de l'Est.",
+      "image": "/images/news/health-milestone.svg"
+    },
+    {
+      "id": "3",
+      "title": "Annual Report 2024 Now Available",
+      "titleFr": "Rapport Annuel 2024 Maintenant Disponible",
+      "date": "2024-11-10",
+      "excerpt": "Read about our achievements, financial transparency, and plans for the coming year in our comprehensive annual report.",
+      "excerptFr": "Decouvrez nos realisations, notre transparence financiere et nos plans pour l'annee a venir dans notre rapport annuel complet.",
+      "image": "/images/news/annual-report.svg"
+    }
+  ]
+}

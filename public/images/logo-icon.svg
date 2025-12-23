@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="leafGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a5e3a"/>
+      <stop offset="50%" style="stop-color:#2d8a4e"/>
+      <stop offset="100%" style="stop-color:#4ade80"/>
+    </linearGradient>
+    <linearGradient id="stemGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a5e3a"/>
+      <stop offset="100%" style="stop-color:#1e3a5f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circle -->
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#0d7377" stroke-width="2.5"/>
+
+  <!-- Fern Stem -->
+  <path d="M50 88 Q50 50 50 15" stroke="url(#stemGrad)" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Fern Leaves - Left Side -->
+  <path d="M50 75 Q35 70 28 60" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 65 Q32 58 24 45" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 55 Q30 48 22 32" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 45 Q33 38 27 25" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 35 Q38 30 33 20" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 25 Q43 22 40 17" stroke="url(#leafGrad)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Fern Leaves - Right Side -->
+  <path d="M50 75 Q65 70 72 60" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 65 Q68 58 76 45" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 55 Q70 48 78 32" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 45 Q67 38 73 25" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 35 Q62 30 67 20" stroke="url(#leafGrad)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 25 Q57 22 60 17" stroke="url(#leafGrad)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
