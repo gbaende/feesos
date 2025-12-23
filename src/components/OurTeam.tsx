@@ -6,35 +6,43 @@ const teamData = {
   members: [
     {
       id: "1",
-      name: "Dr. Amara Okonkwo",
+      name: "Richard Sasa",
       title: "Executive Director",
-      titleFr: "Directrice Executive",
-      bio: "With over 15 years of experience in nonprofit leadership, Dr. Okonkwo leads FEESOS's strategic vision and operations.",
-      bioFr: "Avec plus de 15 ans d'experience dans le leadership associatif, Dr. Okonkwo dirige la vision strategique et les operations de FEESOS.",
+      titleFr: "Directeur Executif",
+      bio: "Richard leads FEESOS's strategic vision and operations, driving our mission to empower communities across Africa.",
+      bioFr: "Richard dirige la vision strategique et les operations de FEESOS, portant notre mission d'autonomisation des communautes africaines.",
     },
     {
       id: "2",
-      name: "Michael Thompson",
+      name: "Marylou Otshumba",
       title: "Director of Programs",
-      titleFr: "Directeur des Programmes",
-      bio: "Michael oversees all FEESOS programs, ensuring they create meaningful and sustainable impact across Africa.",
-      bioFr: "Michael supervise tous les programmes de FEESOS, s'assurant qu'ils creent un impact significatif et durable a travers l'Afrique.",
+      titleFr: "Directrice des Programmes",
+      bio: "Marylou oversees all FEESOS programs, ensuring they create meaningful and sustainable impact across Africa.",
+      bioFr: "Marylou supervise tous les programmes de FEESOS, s'assurant qu'ils creent un impact significatif et durable a travers l'Afrique.",
     },
     {
       id: "3",
-      name: "Fatou Diallo",
+      name: "Naomi Baende",
       title: "Community Outreach Manager",
       titleFr: "Responsable de la Sensibilisation Communautaire",
-      bio: "Fatou builds bridges between FEESOS and communities across Africa, fostering partnerships and local engagement.",
-      bioFr: "Fatou cree des liens entre FEESOS et les communautes a travers l'Afrique, favorisant les partenariats et l'engagement local.",
+      bio: "Naomi builds bridges between FEESOS and communities across Africa, fostering partnerships and local engagement.",
+      bioFr: "Naomi cree des liens entre FEESOS et les communautes a travers l'Afrique, favorisant les partenariats et l'engagement local.",
     },
     {
       id: "4",
-      name: "James Mensah",
+      name: "Christine Mondja",
       title: "Finance & Operations",
       titleFr: "Finances et Operations",
-      bio: "James ensures FEESOS operates with financial integrity and efficiency, maximizing the impact of every donation.",
-      bioFr: "James veille a ce que FEESOS fonctionne avec integrite financiere et efficacite, maximisant l'impact de chaque don.",
+      bio: "Christine ensures FEESOS operates with financial integrity and efficiency, maximizing the impact of every donation.",
+      bioFr: "Christine veille a ce que FEESOS fonctionne avec integrite financiere et efficacite, maximisant l'impact de chaque don.",
+    },
+    {
+      id: "5",
+      name: "JP Nguwa",
+      title: "Development & Partnerships",
+      titleFr: "Developpement et Partenariats",
+      bio: "JP cultivates strategic partnerships and fundraising initiatives to expand FEESOS's reach and impact.",
+      bioFr: "JP developpe des partenariats strategiques et des initiatives de collecte de fonds pour etendre la portee et l'impact de FEESOS.",
     }
   ]
 };
@@ -55,7 +63,7 @@ export default function OurTeam() {
         </div>
 
         {/* Team Grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8">
           {teamData.members.map((member) => (
             <div
               key={member.id}
