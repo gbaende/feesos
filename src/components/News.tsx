@@ -56,14 +56,13 @@ export default function News() {
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">{t.news.subtitle}</p>
         </div>
 
-        {/* News Grid */}
+        {/* News Grid - Hidden for now
         <div className="grid md:grid-cols-3 gap-8">
           {newsData.articles.map((article) => (
             <article
               key={article.id}
               className="bg-white rounded-2xl overflow-hidden border border-gray-200 hover:shadow-xl transition-all group"
             >
-              {/* Image placeholder */}
               <div className="aspect-video bg-gradient-to-br from-green-100 to-teal-100 flex items-center justify-center">
                 <svg className="w-16 h-16 text-green-300" viewBox="0 0 100 100">
                   <path
@@ -72,8 +71,6 @@ export default function News() {
                   />
                 </svg>
               </div>
-
-              {/* Content */}
               <div className="p-6">
                 <div className="flex items-center gap-2 text-gray-500 text-sm mb-3">
                   <Calendar className="w-4 h-4" />
@@ -93,6 +90,7 @@ export default function News() {
             </article>
           ))}
         </div>
+        */}
       </div>
     </section>
   );
